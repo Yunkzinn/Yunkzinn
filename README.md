@@ -10,13 +10,14 @@ I'm Yunk and I'm 19 years old. I am passionate about Offensive Security. I reall
   <img align="center" alt="Yunk-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Yunk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yunk-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="right" alt="Yunk-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Yunk-Pic" height="150" style="border-radius:50px;"
   src="https://media.discordapp.net/attachments/1057021207674884249/1070198064867975168/gif-dhr.gif?width=676&height=676">
 </div>
   
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Ch4rs3t.sh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/leonardo-martins-yunk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Ch4rs3t.sh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
