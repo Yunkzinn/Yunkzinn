@@ -20,4 +20,10 @@ I'm Yunk and I'm 19 years old. I am passionate about Offensive Security. I reall
   <a href="https://www.linkedin.com/in/leonardo-martins-yunk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:Ch4rs3t.sh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<div align="left">
+  <a href="https://github.com/e1ghts1x">
+  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yunkzinn&show_icons=true&theme=dracula&include_all_commits=true count_private=true"/>--->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunkzinn&layout=compact&langs_count=10&theme=dracula"/>
+</div>
 
